@@ -100,10 +100,10 @@ Ref.24: Activity 5 completed
 
 
 <img width="1178" alt="31" src="https://github.com/user-attachments/assets/f1a726d0-b569-4803-b86f-8be30c58f96d" />
-Ref.25: Sample 6 Scan
 
 <img width="583" alt="32" src="https://github.com/user-attachments/assets/291283c1-9fd3-4968-be75-8b142c6e88f5" />
-Ref.26: Process Creation Editing
+Ref.25 & 26: Scanning & Process Creation Editing
+
 
 <img width="1261" alt="33" src="https://github.com/user-attachments/assets/8b3f70af-34b1-40e9-97d5-8541009b0707" />
 Ref.27: Activity 6 Completed
