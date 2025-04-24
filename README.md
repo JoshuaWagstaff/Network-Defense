@@ -83,6 +83,37 @@ Ref.16: Registry Modification
 <img width="1274" alt="21- flag 4" src="https://github.com/user-attachments/assets/0828f855-71a1-4829-bc39-aa17350a9bb1" />
 Ref.17: Acitivty 4 Completed
 
+<img width="1265" alt="23 - outgoing connections" src="https://github.com/user-attachments/assets/c7721f00-1128-492b-8212-31c01c5af023" />
+Ref.18: Outgoing Connections
+
+<img width="1259" alt="24" src="https://github.com/user-attachments/assets/fb59dd88-0d1e-485e-8c53-ab18ad46d97f" />
+<img width="838" alt="25" src="https://github.com/user-attachments/assets/2ae4f6eb-bae9-4c02-be7c-44ba5fffb682" />
+Ref.20 & 21: Scanning
+
+<img width="748" alt="27" src="https://github.com/user-attachments/assets/023edb9a-8bef-4d43-bd53-4b004a33800f" />
+<img width="554" alt="26" src="https://github.com/user-attachments/assets/7b16b51f-89f4-48e7-b877-fd29a26b0d9c" />
+
+Ref.22 & 23: Modifying Network Connections
+
+<img width="1262" alt="28 - flag" src="https://github.com/user-attachments/assets/bffba69d-575d-4aa8-b4e7-5f86b6e9c052" />
+Ref.24: Activity 5 completed
+
+
+<img width="1178" alt="31" src="https://github.com/user-attachments/assets/f1a726d0-b569-4803-b86f-8be30c58f96d" />
+Ref.25: Sample 6 Scan
+
+<img width="583" alt="32" src="https://github.com/user-attachments/assets/291283c1-9fd3-4968-be75-8b142c6e88f5" />
+Ref.26: Process Creation Editing
+
+<img width="1261" alt="33" src="https://github.com/user-attachments/assets/8b3f70af-34b1-40e9-97d5-8541009b0707" />
+Ref.27: Activity 6 Completed
+
+<img width="1098" alt="35- all flag" src="https://github.com/user-attachments/assets/10fd1eae-d8d3-4930-9da1-75a7e87ba1af" />
+Ref.28 Tasks Completed
+
+
+
+
 
 
 
